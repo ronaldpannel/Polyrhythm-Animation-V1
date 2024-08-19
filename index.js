@@ -15,7 +15,7 @@ const trackRadius = 50;
 const trackRadiusStep = 25;
 const ballRadius = 6;
 const ballMinSpeed = 0.01;
-const ballSpeedStep = -0.0005;
+const ballSpeedStep = -0.0001;
 let offsetMult = 1;
 const num = 9;
 
